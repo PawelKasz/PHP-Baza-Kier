@@ -1,5 +1,5 @@
 <HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
-<head>
+<head>   
 <meta http-equiv="Content-Type" content="text/html:
 charset=UTF-8" />
 </head>
@@ -8,7 +8,7 @@ charset=UTF-8" />
 <h1>Listy wyboru</h1>
 <table  width="100" border="1">
 <form  METOD="GET" action="newfile.php">
-	Wybierz swoje ulubione owoce:
+	Wybierz swoje ulubione owoce:  GRUSZKA
 	<BR>
 	<BR>
 	<SELECT NAME="nazwa_naszej_listy"  MULTIPLE="multiple" size="2">

@@ -7,7 +7,7 @@ $Ckk = wybr_bazy($connection);
 //Dla pobranego CKK pobranie Dnia, Miesi¹ca, Roku
 $Data = array(11,22,33);
 $Data = Pobranie_daty($Ckk, $Data);
-
+  
 
 echo "<CENTER>";
 echo "<h1>", "Miesiac ", "$Data[1]", " / ","$Data[2]", "</h1>";

@@ -1,12 +1,12 @@
 
-
+   
 <?php
 // Polaczenie z baza mysql.
 $connection = mysql_connect("localhost" , "galaxyog_Pk2" , "Derwisz")
 or die ("Kicha ");
 
 // Check connection
-if (!$connection)
+if (!$connection)   
 {
 	die("Connection failed: " . mysql_error());
 }
