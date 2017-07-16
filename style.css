@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.przycisk
+{
+  display:block;
+  position:absolute; 
+  height:30px; 
+  background-color:green; 
+  line-height:30px; 
+  text-align:center;
+  font-family:Arial; 
+  font-size:17px; 
+  color:white; 
+  font-weight:bold; 
+  border:3px solid silver; 
+  letter-spacing:4px;
+  cursor:default;
+}
+
+.przycisk:active
+{
+  border:1px solid silver; 
+}
+
