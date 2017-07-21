@@ -5,7 +5,7 @@ charset=UTF-8" />
 </head>
 <body>
 <CENTER>
-<h1>Listy wyboru</h1>
+<h1>Listy wyboru-Git</h1>
 <table  width="100" border="1">
 <form  METOD="GET" action="newfile.php">
 	Wybierz swoje ulubione owoce:  GRUSZKA
